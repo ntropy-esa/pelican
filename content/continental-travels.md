@@ -51,30 +51,30 @@ Tip: Malmö to anywhere in Germany can be done in a single booking: https://www.
 List of (some) train routes I made... I usually split my travels to be able to visit family on the way (spread around Bremen, Dusseldorf & Paris - very convenient indeed, but you may have friends here & there as well?). I also made direct journeys without stops (e.g Paris to Stockholm & Stockholm to Cetraro without stopping on the way, and luckily every train was on time or even early).
 
 - Stockholm - Kirchweyghe (visiting Sister), then continuing to Paris
--- STO > MAL : night train, 40€
--- MAL > CPH > HAM > BRE > KIRCH : 50€, booked in one shot via DB website
--- KIRCH > DUS: 2 regional trains, 20€
--- DUS > PARIS: via Thalys, 50€
+    - STO > MAL : night train, 40€
+    - MAL > CPH > HAM > BRE > KIRCH : 50€, booked in one shot via DB website
+    - KIRCH > DUS: 2 regional trains, 20€
+    - DUS > PARIS: via Thalys, 50€
 
 - Stockholm to Düsseldorf
-STO > CPH: SJ express train
-CPH > HAM: direct EC train (or without seat reservation) 2 regional train with change in Fredericia
-HAM > DUS: direct express trains without (seat reservation)
-bonus: DUS > PAR: take the Thalys, also departs from Cologne
+    - STO > CPH: SJ express train
+    - CPH > HAM: direct EC train (or without seat reservation) 2 regional train with change in Fredericia
+    - HAM > DUS: direct express trains without (seat reservation)
+    - bonus: DUS > PAR: take the Thalys, also departs from Cologne
 
 - Stockholm to Cetraro, in the South of Italy, 40 hours of travel with my boss, for an academic conference, via InterRail, and just 5 trains!
-STO > CPH: afternoon train, dinner in Copenhague
-CPH > HAM: night train without sleeper
-HAM > ZUR: express train crossing Germany, without seat reservation
-ZUR > MIL: express train with with seat reservation, dinner in a pizzeria before boarding night train
-MIL > CETRARO: night train, with sleeper, waking up with view on the sea
+    - STO > CPH: afternoon train, dinner in Copenhague
+    - CPH > HAM: night train without sleeper
+    - HAM > ZUR: express train crossing Germany, without seat reservation
+    - ZUR > MIL: express train with with seat reservation, dinner in a pizzeria before boarding night train
+    - MIL > CETRARO: night train, with sleeper, waking up with view on the sea
 
 
 - Paris to Stockholm, without stop, with InterRail, and just 4 trains!
-PARIS > FRANKFURT: afternoon train, TGV
-FRANKFURT > HAMBURG: express train, by night, without sleeper, without seat reservation
-HAMBURG > CPH: EC direct train, with seat reservation
-CPH > STO: SJ express train, arriving in early evening
+    - PARIS > FRANKFURT: afternoon train, TGV
+    - FRANKFURT > HAMBURG: express train, by night, without sleeper, without seat reservation
+    - HAMBURG > CPH: EC direct train, with seat reservation
+    - CPH > STO: SJ express train, arriving in early evening
 
 
 ## Complete list of train routes
