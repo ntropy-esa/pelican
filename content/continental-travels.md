@@ -26,12 +26,14 @@ The key: know how to book your compulsory seat reservations!
 - Which trains have a compulsory seat reservation: check it here https://www.interrail.eu/en/plan-your-trip/interrail-timetable 
 - Book SJ seats (72SEK on SJ Snabbtåg STO-MAL): https://www.sj.se/en/home.html (Note: you need to use the English version of the website, and select InterRail in the options)
 - Book Dutch seats (typically EC train between CPH & HAM): https://travel.b-europe.com/dsb-rail/en/reservation-only 
-- Book French TGV seats: at a train station, or using the Swissh website of SNCF (this has probably changed)
-- Italian express trains: via Tourist Office in Stockholm Central or last resort, online on shitty InterRail website (with fees in both cases)
+- Book French TGV seats: done once at a train station in Paris, the staff even managed to book for us until Frankfurt actually (without fee); alternative is to use the SNCF website, but at the time it did not work with the French website, I had to go through either UK, CH or BE pages e.g. https://ch.oui.sncf/fr/pass/reservation-siege or https://be.oui.sncf/fr/pass/seat-reservation or https://en.oui.sncf/en/pass/seat-reservation 
+- Italian express trains: via Tourist Office in Stockholm Central or last resort, online on ~~shitty~~ InterRail website (with fees in both cases)
 
-The tip: if you want to go to from Paris to Stockholm, and type this directly in the rail planner (link) you probably will get routes that are impossible to do. Adapt & adjust! Use the feature "minimum connection time". Target the key fast trains or night trains you want to take, where you want to have dinner, and adjust the other trains around it to have a pleasant journey.
+Planning tip: if you want to go to from Paris to Stockholm, and type this directly in the rail planner (link) you probably will get routes that are impossible to do. Adapt & adjust! Use the feature "minimum connection time". Target the key fast trains or night trains you want to take, where you want to have dinner, and adjust the other trains around it to have a pleasant journey.
 
-Ah, & where to get the InterRail card: option 1) online https://www.interrail.eu/, it will be sent to you by plane from Ireland... option 2) at the Tourist Office in Stockholm Central station (with a fee + weird opening times)
+Ah, where to get the InterRail card? 
+- option 1) online https://www.interrail.eu/, it will be sent to you by plane from Ireland... 
+- option 2) at the Tourist Office in Stockholm Central station (with a fee + weird opening times)
 
 ## With direct train bookings...
 
@@ -41,8 +43,7 @@ Main websites for booking:
 - DK (international trains, typically CPH-HAM): https://travel.b-europe.com/dsb-rail/dk/booking 
 - FR: https://www.oui.sncf/
 
-Tip: Malmö to Germany in one booking: via DeutscheBahn website
-
+Tip: Malmö to anywhere in Germany can be done in a single booking: https://www.bahn.de/
 
 
 ## Examples of train routes
@@ -50,10 +51,10 @@ Tip: Malmö to Germany in one booking: via DeutscheBahn website
 List of (some) train routes I made... I usually split my travels to be able to visit family on the way (spread around Bremen, Dusseldorf & Paris - very convenient indeed, but you may have friends here & there as well?). I also made direct journeys without stops (e.g Paris to Stockholm & Stockholm to Cetraro without stopping on the way, and luckily every train was on time or even early).
 
 - Stockholm - Kirchweyghe (visiting Sister), then continuing to Paris
-STO > MAL : night train, 40€
-MAL > CPH > HAM > BRE > KIRCH : 50€, booked in one shot via DB website
-KIRCH > DUS: 2 regional trains, 20€
-DUS > PARIS: via Thalys, 50€
+-- STO > MAL : night train, 40€
+-- MAL > CPH > HAM > BRE > KIRCH : 50€, booked in one shot via DB website
+-- KIRCH > DUS: 2 regional trains, 20€
+-- DUS > PARIS: via Thalys, 50€
 
 - Stockholm to Düsseldorf
 STO > CPH: SJ express train
@@ -67,8 +68,6 @@ CPH > HAM: night train without sleeper
 HAM > ZUR: express train crossing Germany, without seat reservation
 ZUR > MIL: express train with with seat reservation, dinner in a pizzeria before boarding night train
 MIL > CETRARO: night train, with sleeper, waking up with view on the sea
-
-- Cetraro to Düsseldorf
 
 
 - Paris to Stockholm, without stop, with InterRail, and just 4 trains!
