@@ -95,5 +95,5 @@ List of (some) train routes I made... I usually split my travels to be able to v
 
 ![Trains](media/trains.png)
 
-![Flights](media/flights.png)
+![Flights](media/flights.PNG)
 
