@@ -90,3 +90,10 @@ List of (some) train routes I made... I usually split my travels to be able to v
 | 2018 | 2018-08-20 | IR2  | STO>NIJ>VNL>NIJ>DUS>BRM>STO                                       | 2900          |            6 700               |
 | 2018 | 2018-06-20 | IR1  | STO>BRM>DUS>PAR>SUT>HAM>STO                                       | 3800          |            3 800               |
 
+
+## Graphs
+
+![Trains](media/trains.png)
+
+![Flights](media/flights§.png)
+
